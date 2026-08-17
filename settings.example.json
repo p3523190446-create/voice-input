@@ -1,0 +1,10 @@
+{
+  "language": "auto",
+  "modelsDir": "C:\\Users\\你的用户名\\AppData\\Local\\WhisperModels",
+  "mute": false,
+  "micDevice": null,
+  "model": "small",
+  "vocab": "",
+  "smartPunct": true,
+  "hotkey": 119
+}

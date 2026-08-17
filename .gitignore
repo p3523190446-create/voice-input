@@ -1,0 +1,7 @@
+﻿settings.json
+history.txt
+tray.log
+service.pid
+*.wav
+__pycache__/
+*.pyc
